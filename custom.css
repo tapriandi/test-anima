@@ -1,0 +1,12 @@
+.x10-mobile-homepage-1 {
+  display: none;
+}
+
+@media (max-width: 360px) {
+  .x10-mobile-homepage-1 {
+    display: block;
+  }
+  .x10-desktop-homepage-1 {
+    display: none;
+  }
+}

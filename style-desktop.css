@@ -1400,7 +1400,7 @@
   align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-1@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ff78bfa0>px;
+  border-radius: 20px;
   display: flex;
   height: 440px;
   margin-top: -20px;
@@ -1427,7 +1427,7 @@
   align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-4@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ffc2c700>px;
+  border-radius: 20px;
   display: flex;
   height: 440px;
   margin-top: -20px;
@@ -1442,7 +1442,7 @@
 .x10-desktop-homepage-1 .overlap-group1-9 {
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-7@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ffc53640>px;
+  border-radius: 20px;
   height: 440px;
   margin-top: -20px;
   position: relative;
@@ -1468,7 +1468,7 @@
   align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-2@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ffbc3b50>px;
+  border-radius: 20px;
   display: flex;
   height: 440px;
   margin-top: -20px;
@@ -1479,7 +1479,7 @@
   align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-5@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ffc5f820>px;
+  border-radius: 20px;
   display: flex;
   height: 440px;
   margin-top: -20px;
@@ -1516,7 +1516,7 @@
   align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-3@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ff93e2e0>px;
+  border-radius: 20px;
   display: flex;
   height: 440px;
   margin-top: -20px;
@@ -1527,7 +1527,7 @@
   align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-3@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ff432130>px;
+  border-radius: 20px;
   display: flex;
   height: 440px;
   margin-top: -20px;
@@ -1535,7 +1535,7 @@
   padding: 20px 30px;
 }
 .x10-desktop-homepage-1 .overlap-group3-2 {
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ff5c2610>px;
+  border-radius: 20px;
   height: 380px;
   position: relative;
   width: 600px;
@@ -1555,7 +1555,7 @@
 .x10-desktop-homepage-1 .overlap-group4-1 {
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/601a1014b7f6fa0621c7a6f1/releases/60201c5bb7d0903f9115b9d6/img/photo-7@1x.png);
   background-size: 100% 100%;
-  border-radius: <codegenerator_web.anima_models.admodel_corner_radius.ADModelCornerRadius object at 0x7f33ff5ccd60>px;
+  border-radius: 20px;
   height: 440px;
   margin-top: -20px;
   position: relative;
