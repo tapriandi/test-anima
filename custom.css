@@ -1,12 +1,12 @@
 .x10-mobile-homepage-1 {
-  display: none;
+  display: none !important;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   .x10-mobile-homepage-1 {
-    display: block;
+    display: block !important;
   }
   .x10-desktop-homepage-1 {
-    display: none;
+    display: none !important;
   }
 }
